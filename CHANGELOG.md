@@ -23,6 +23,7 @@ Changed
   [#427](https://github.com/collectiveidea/audited/pull/427)
 - Rename audited resource revision `version` attribute to `audit_version` and deprecate `version` attribute
   [#443](https://github.com/collectiveidea/audited/pull/443)
+- `allow_mass_assignment` option isn't considered anymore
 
 Fixed
 
